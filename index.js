@@ -9,7 +9,7 @@ class SVG {
   }
 
   render() {
-    return `<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+    return `<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
     ${this.shapeElement}
     ${this.textElement}
     </svg>`;
@@ -63,10 +63,10 @@ inquirer.prompt(questions).then((answers) => {
       svg.setShapeElement(new Circle(100, shapeColor));
       break;
     case 'Rectangle':
-      svg.setShapeElement(new Rectangle(200, 100, shapeColor));
+      svg.setShapeElement(new Rectangle(300, 200, shapeColor));
       break;
     case 'Square':
-      svg.setShapeElement(new Square(100, shapeColor));
+      svg.setShapeElement(new Square(200, shapeColor));
       break;
   }
 
