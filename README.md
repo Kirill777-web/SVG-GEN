@@ -49,8 +49,8 @@ To install SVG-GEN, follow these steps:
 
 ## Links
 
-- This is the link of my [GitHub repository]()
-- The following screenshots show the all test are passed ![SVG-GEN](/utils/IMG/SVG-GEN.png)
+- This is the link of my [GitHub repository](https://github.com/Kirill777-web/SVG-GEN)
+- The following screenshot show the all test are passed ![SVG-GEN](/utils/IMG/SVG-GEN.png)
 - Link of Screenrecorder [Screencastify](https://drive.google.com/file/d/13h0lTxoa6ZInE6gkQS1tVDmdsOP1NYSh/view)
 
 ## Credits
